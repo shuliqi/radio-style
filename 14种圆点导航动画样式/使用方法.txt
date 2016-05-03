@@ -1,0 +1,9 @@
+14种圆点导航动画样式，适合焦点图或整屏切换展示，兼容主流浏览器，懒人图库推荐下载！
+
+使用方法：
+1、在head区域引入样式表文件normalize.css，demo.css，component.css
+2、在head区域引入modernizr.min.js
+3、查看每个<div class="dotstyle dotstyle-stroke">中dotstyle后面的名称即为当前圆点导航的样式
+4、在结尾处调用dots.js等JS代码。
+
+*更多代码请访问：懒人图库 www.lanrentuku.com/js/
